@@ -1,10 +1,10 @@
 import os
+os.system("pip install time")
 print("only works in windows os(linux version is comming soon)")
 time.sleep(5)
 os.system("color 9E")
 os.system("cls")
 os.system("pip install psutil")
-os.system("pip install time")
 from psutil import *
 import time
 while True:
