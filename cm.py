@@ -1,12 +1,11 @@
 import os
-os.system("pip install time")
+import time
 print("only works in windows os(linux version is comming soon)")
 time.sleep(5)
 os.system("color 9E")
 os.system("cls")
 os.system("pip install psutil")
 from psutil import *
-import time
 while True:
     print("DEVLOPED by PRATV3")
     def cp ():
